@@ -37,6 +37,16 @@
 	border-radius: 24px;
 }
 
+.header-image {
+	display: flex;
+	flex-wrap: wrap;
+}	
+
+.heroTwo {
+	font-size: 2rem;
+}
+
+
 @media screen and (max-width: 991px) {
 	.partners-mosaic .partners-item {
 		width: 49%;
